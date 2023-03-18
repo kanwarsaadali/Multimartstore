@@ -1,0 +1,36 @@
+.product_-details{
+    margin-top: 70px;
+}
+.product_-details h2{
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+}
+.product__rating span i{
+     color: coral;
+}
+.product__rating p span {
+    color: coral;
+    font-weight: 500;
+}
+.prduct-price{
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+.tap__wrapper{
+    color: var(--primary-color);
+    font-weight: 500;
+    font-style: 1rem;
+}
+.active__tab{
+    font-weight: 600;
+}
+.related__title{
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-top: 30px;
+}
+@media only screen and (max-width : 768px){
+    .product__details h2 {
+        font-size: 1.3rem;
+    }
+}
