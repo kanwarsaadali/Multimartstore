@@ -77,7 +77,7 @@ const Home = () => {
                   
                   Trending Product in {year}
                 </p>
-                <h2>Make Your Interior More Minimalistic & Modern</h2>
+                <h2>Makes Your Interior More Minimalistic & Modern</h2>
                 <p style={{ fontSize: "12px" }}>
                   Lorem ipsum dolor sit amet consectetur, adipisicing elit.
                   Animi, esse cumque nihil cum sed, quos quae quas minima earum
